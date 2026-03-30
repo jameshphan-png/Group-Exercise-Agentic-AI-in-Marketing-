@@ -18,3 +18,6 @@ The purpose of this AI agent is to create a comparison between the Agent's strat
 Its focus will vary on several outcomes, leading towards the total amount spent for the duration of 14 days - 1 month. (i.e. Click-through rate, impressions, etc).
 In addition to this, it will also include certain rulesets such as guardrails, heuristics, etc to explore upon some aspects as to why one channel may impact superior performance (if that's the case).
 Ultimately in the end, a rationale of why budget allocation exists for each channel (Social, Search, Display), to induce transparency and insights based on real-life simulation.
+
+Results (when all steps run properly in order):
+
