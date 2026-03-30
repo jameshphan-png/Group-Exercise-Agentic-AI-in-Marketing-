@@ -20,8 +20,13 @@ In addition to this, it will also include certain rulesets such as guardrails, h
 Ultimately in the end, a rationale of why budget allocation exists for each channel (Social, Search, Display), to induce transparency and insights based on real-life simulation.
 
 Results (when all steps run properly in order):
+1. Decision Preview for a specific day (includes a rationale, tools used, and projection to what will happen next when looking into the Excel datasets)
 <img width="1429" height="336" alt="image" src="https://github.com/user-attachments/assets/e33f5e3b-c8dd-49b8-aaf3-52678e1d9207" />
+
+2. Reasoning for why 'results' are intended to act, given from the AI Agent itself & Rulesets indicated
 <img width="1199" height="547" alt="image" src="https://github.com/user-attachments/assets/11dc5144-f834-48c0-b2f0-8fe10d3d2ec0" />
+
+3. Final Results (AI Agent vs. Equal-Split Baseline - 33/33/33)
 <img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/0c782017-8b30-4735-a828-842839d9e4e2" />
 
 
